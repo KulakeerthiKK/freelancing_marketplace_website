@@ -1,6 +1,6 @@
 [build]
 publish = "distill_static"
-command = "python manage.py distill-local"
+command = "python manage.py distill-local distill_static"
 
 [build.environment]
 PYTHON_VERSION = "3.9"
