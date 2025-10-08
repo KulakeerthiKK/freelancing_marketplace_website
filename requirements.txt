@@ -5,3 +5,5 @@ Pillow==10.3.0  # For image uploads, if required
 django-allauth==0.56.0  # For advanced authentication features (optional)
 psycopg2-binary==2.9.7  # For PostgreSQL support (use only if you're using PostgreSQL)
 PyMySQL==1.1.1
+django-distill==3.1.3
+
